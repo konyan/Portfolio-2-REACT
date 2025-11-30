@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://konyan.github.io/konyan.dev",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
